@@ -2,7 +2,7 @@
 This project imitate the front-end for Google Search, Google Image Search, and Google Advanced Search. Any query made would be redirected to Google. Written purely in HTML and CSS. 
 
 ## Instalation
-To run this project, you can directly open index.html on live server. 
+To run this project, you can directly open index.html in the browser. 
 
 ## Features 
 - **Text Query**: Users can type in a query in the search box, click “Google Search”, and they will taken to the Google search results for that page. 
